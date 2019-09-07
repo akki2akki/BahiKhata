@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bahi Khata</string>
+    <string name="tv1">Welcome to Bahi-Khata</string>
+    <string name="tv2">Get rid of your old Khata-Book \n Don\'t need to worry for lossing
+your data.</string>
+    <string name="button_login">Start Using Bahi Khata</string>
+</resources>
